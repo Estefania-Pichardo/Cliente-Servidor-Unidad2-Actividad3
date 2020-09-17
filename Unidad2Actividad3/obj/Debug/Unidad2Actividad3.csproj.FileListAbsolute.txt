@@ -1,0 +1,17 @@
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\bin\Debug\Unidad2Actividad3.exe.config
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\bin\Debug\Unidad2Actividad3.exe
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\bin\Debug\Unidad2Actividad3.pdb
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\Unidad2Actividad3.csprojAssemblyReference.cache
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\MainWindow.g.cs
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\App.g.cs
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\Unidad2Actividad3_Content.g.cs
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\Unidad2Actividad3_MarkupCompile.cache
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\Unidad2Actividad3_MarkupCompile.lref
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\MainWindow.baml
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\Unidad2Actividad3.g.resources
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\Unidad2Actividad3.Properties.Resources.resources
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\Unidad2Actividad3.csproj.GenerateResource.cache
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\Unidad2Actividad3.csproj.CoreCompileInputs.cache
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\Unidad2Actividad3.exe
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\obj\Debug\Unidad2Actividad3.pdb
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Actividad3\Unidad2Actividad3\bin\Debug\index.html
